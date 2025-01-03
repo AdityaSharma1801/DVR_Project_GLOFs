@@ -62,9 +62,7 @@ The application uses the following parameters for GLOF risk prediction:
   - View historical trends and insights into past GLOF events.
 - **Secure Access**: Google login ensures secure user authentication for app usage.
 
-## Screenshots
-Add screenshots of your app here to visually demonstrate its functionalities.
-
+ 
 ## Future Work
 - Integration of real-time satellite data for dynamic risk assessments.
 - Enhanced machine learning models for improved prediction accuracy.
