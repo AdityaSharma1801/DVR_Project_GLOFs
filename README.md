@@ -1,5 +1,7 @@
 # Glacial Lake Outburst Flood (GLOF) Prediction Web App
 
+![GLOF Prediction Web App](https://images.pexels.com/photos/28359751/pexels-photo-28359751.jpeg?cs=srgb&dl=pexels-gsn-travel-28359751.jpg&fm=jpg)
+
 ## Overview
 This repository contains a Shiny-based web application designed to predict the risk of Glacial Lake Outburst Floods (GLOFs) in the Himalayan region of India. GLOFs pose significant risks to downstream communities, infrastructure, and ecosystems. Our web application provides users with tools to estimate the risk score of GLOFs based on various parameters and visualize the data interactively.
 
