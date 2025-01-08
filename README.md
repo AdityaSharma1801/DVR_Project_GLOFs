@@ -75,7 +75,7 @@ This project was developed as part of a broader initiative to mitigate risks ass
 This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
-For any queries or contributions, please contact:
+For any queries or contributions, please contact:<br>
 **Aditya Sharma** (Developer)
 - Email: [sharmaaditya18012004@gmail.com](mailto:sharmaaditya18012004@gmail.com)
 - GitHub: [AdityaSharma1801](https://github.com/AdityaSharma1801)
