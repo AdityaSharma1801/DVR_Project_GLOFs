@@ -76,12 +76,12 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 For any queries or contributions, please contact:
-- **Aditya Sharma** (Developer)
+**Aditya Sharma** (Developer)
 - Email: [sharmaaditya18012004@gmail.com](mailto:sharmaaditya18012004@gmail.com)
 - GitHub: [AdityaSharma1801](https://github.com/AdityaSharma1801)
 
-- **Bhavya Pradhan** (Co-Developer) 
-- Email: bhavyapradhan8@gmail.com(mailto:bhavyapradhan8@gmail.com)
+**Bhavya Pradhan** (Co-Developer) 
+- Email: [bhavyapradhan8@gmail.com](mailto:bhavyapradhan8@gmail.com)
 - GitHub: [Bhavya2004-ds](https://github.com/Bhavya2004-ds)
 ---
 Feel free to contribute by raising issues or submitting pull requests to enhance the project.
